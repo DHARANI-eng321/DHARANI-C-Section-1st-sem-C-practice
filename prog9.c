@@ -3,9 +3,9 @@ int main()
 {
   
   
-  for(int i=0;i>=1;i++)
+  for(int i=0;i<10;i++)
   {
-     printf("%d",i);
+     printf("%d",i+1);
    }
    return 0;
 }
